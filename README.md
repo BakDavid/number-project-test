@@ -13,6 +13,9 @@ In this small project I had to accomplish the following 3 tests:
   * By hovering over the Test1, Test2, Test3 links we can see the tooltip for the tests.
   * If the input field is filled with the number and we click the button, then it should show the result for it.
 
+# Time the project took to develop it
+  This project took me around 2-3 hours to fulfill.
+
 # Technologies used
 
 For the sake of simplicity I used:
